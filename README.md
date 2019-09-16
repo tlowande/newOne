@@ -2,6 +2,8 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Claire for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [CLAIRE](https://www.lighthouselabs.ca/) for the Lighthouse Labs Web Development Bootcamp.
 
-TAKEN BY [CLAIRE](https://www.lighthouselabs.ca/)
+#### Table of contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
